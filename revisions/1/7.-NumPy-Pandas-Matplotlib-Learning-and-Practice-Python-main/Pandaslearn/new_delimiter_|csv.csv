@@ -1,0 +1,801 @@
+#|Name|Type 1|Type 2|Defense|Sp. Atk|Sp. Def|Speed|Generation|Legendary|Totals|HP|Attack
+1|Bulbasaur|Grass|Poison|49|65|65|45|1|False|1415|45|49
+2|Ivysaur|Grass|Poison|63|80|80|60|1|False|1806|60|62
+3|Venusaur|Grass|Poison|83|100|100|80|1|False|2346|80|82
+3|VenusaurMega Venusaur|Grass|Poison|123|122|120|80|1|False|2764|80|100
+4|Charmander|Fire||43|60|50|65|1|False|1370|39|52
+5|Charmeleon|Fire||58|80|65|80|1|False|1804|58|64
+6|Charizard|Fire|Flying|78|109|85|100|1|False|2380|78|84
+6|CharizardMega Charizard X|Fire|Dragon|111|130|85|100|1|False|2826|78|130
+6|CharizardMega Charizard Y|Fire|Flying|78|159|115|100|1|False|2800|78|104
+7|Squirtle|Water||65|50|64|43|1|False|1396|44|48
+8|Wartortle|Water||80|65|80|58|1|False|1805|59|63
+9|Blastoise|Water||100|85|105|78|1|False|2365|79|83
+9|BlastoiseMega Blastoise|Water||120|135|115|78|1|False|2785|79|103
+10|Caterpie|Bug||35|20|20|45|1|False|904|45|30
+11|Metapod|Bug||55|25|25|30|1|False|944|50|20
+12|Butterfree|Bug|Flying|50|90|80|70|1|False|1749|60|45
+13|Weedle|Bug|Poison|30|20|20|50|1|False|899|40|35
+14|Kakuna|Bug|Poison|50|25|25|35|1|False|939|45|25
+15|Beedrill|Bug|Poison|40|45|80|75|1|False|1804|65|90
+15|BeedrillMega Beedrill|Bug|Poison|40|15|80|145|1|False|2264|65|150
+16|Pidgey|Normal|Flying|40|35|35|56|1|False|1133|40|45
+17|Pidgeotto|Normal|Flying|55|50|50|71|1|False|1586|63|60
+18|Pidgeot|Normal|Flying|75|70|70|101|1|False|2166|83|80
+18|PidgeotMega Pidgeot|Normal|Flying|80|135|80|121|1|False|2566|83|80
+19|Rattata|Normal||35|25|35|72|1|False|1132|30|56
+20|Raticate|Normal||60|50|70|97|1|False|1847|55|81
+21|Spearow|Normal|Flying|30|31|31|70|1|False|1192|40|60
+22|Fearow|Normal|Flying|65|61|61|100|1|False|1992|65|90
+23|Ekans|Poison||44|40|54|55|1|False|1286|35|60
+24|Arbok|Poison||69|65|79|80|1|False|1961|60|85
+25|Pikachu|Electric||40|50|50|90|1|False|1409|35|55
+26|Raichu|Electric||55|90|80|110|1|False|2154|60|90
+27|Sandshrew|Ground||85|20|30|40|1|False|1379|50|75
+28|Sandslash|Ground||110|45|55|65|1|False|2054|75|100
+29|Nidoran (Female)|Poison||52|40|40|41|1|False|1261|55|47
+30|Nidorina|Poison||67|55|55|56|1|False|1666|70|62
+31|Nidoqueen|Poison|Ground|87|75|85|76|1|False|2296|90|92
+32|Nidoran (Male)|Poison||40|40|40|50|1|False|1245|46|57
+33|Nidorino|Poison||57|55|55|65|1|False|1658|61|72
+34|Nidoking|Poison|Ground|77|85|75|85|1|False|2288|81|102
+35|Clefairy|Fairy||48|60|65|35|1|False|1481|70|45
+36|Clefable|Fairy||73|95|90|60|1|False|2196|95|70
+37|Vulpix|Fire||40|50|65|65|1|False|1317|38|41
+38|Ninetales|Fire||75|81|100|100|1|False|2246|73|76
+39|Jigglypuff|Normal|Fairy|20|45|25|20|1|False|1359|115|45
+40|Wigglytuff|Normal|Fairy|45|85|50|45|1|False|2094|140|70
+41|Zubat|Poison|Flying|35|30|40|55|1|False|1109|40|45
+42|Golbat|Poison|Flying|70|65|75|90|1|False|2054|75|80
+43|Oddish|Grass|Poison|55|75|65|30|1|False|1424|45|50
+44|Gloom|Grass|Poison|70|85|75|40|1|False|1769|60|65
+45|Vileplume|Grass|Poison|85|110|90|50|1|False|2194|75|80
+46|Paras|Bug|Grass|55|45|55|25|1|False|1284|35|70
+47|Parasect|Bug|Grass|80|60|80|30|1|False|1839|60|95
+48|Venonat|Bug|Poison|50|40|55|45|1|False|1399|60|55
+49|Venomoth|Bug|Poison|60|90|75|90|1|False|2009|70|65
+50|Diglett|Ground||25|35|45|95|1|False|1139|10|55
+51|Dugtrio|Ground||50|50|70|120|1|False|1774|35|80
+52|Meowth|Normal||35|40|40|90|1|False|1289|40|45
+53|Persian|Normal||60|65|65|115|1|False|1964|65|70
+54|Psyduck|Water||48|65|50|55|1|False|1436|50|52
+55|Golduck|Water||78|95|80|85|1|False|2246|80|82
+56|Mankey|Fighting||35|35|45|70|1|False|1384|40|80
+57|Primeape|Fighting||60|60|70|95|1|False|2059|65|105
+58|Growlithe|Fire||45|70|50|60|1|False|1584|55|70
+59|Arcanine|Fire||80|100|80|95|1|False|2514|90|110
+60|Poliwag|Water||40|40|40|90|1|False|1334|40|50
+61|Poliwhirl|Water||65|50|50|90|1|False|1739|65|65
+62|Poliwrath|Water|Fighting|95|70|90|70|1|False|2319|90|95
+63|Abra|Psychic||15|105|55|90|1|False|1314|25|20
+64|Kadabra|Psychic||30|120|70|105|1|False|1719|40|35
+65|Alakazam|Psychic||45|135|95|120|1|False|2164|55|50
+65|AlakazamMega Alakazam|Psychic||65|175|95|150|1|False|2524|55|50
+66|Machop|Fighting||50|35|35|35|1|False|1444|70|80
+67|Machoke|Fighting||70|50|60|45|1|False|1884|80|100
+68|Machamp|Fighting||80|65|85|55|1|False|2334|90|130
+69|Bellsprout|Grass|Poison|35|70|30|40|1|False|1379|50|75
+70|Weepinbell|Grass|Poison|50|85|45|55|1|False|1784|65|90
+71|Victreebel|Grass|Poison|65|100|70|70|1|False|2229|80|105
+72|Tentacool|Water|Poison|35|50|100|70|1|False|1464|40|40
+73|Tentacruel|Water|Poison|65|80|120|100|1|False|2294|80|70
+74|Geodude|Rock|Ground|100|30|30|20|1|False|1364|40|80
+75|Graveler|Rock|Ground|115|45|45|35|1|False|1769|55|95
+76|Golem|Rock|Ground|130|55|65|45|1|False|2264|80|120
+77|Ponyta|Fire||55|65|65|90|1|False|1829|50|85
+78|Rapidash|Fire||70|80|80|105|1|False|2234|65|100
+79|Slowpoke|Water|Psychic|65|40|40|15|1|False|1509|90|65
+80|Slowbro|Water|Psychic|110|100|80|30|1|False|2229|95|75
+80|SlowbroMega Slowbro|Water|Psychic|180|130|80|30|1|False|2629|95|75
+81|Magnemite|Electric|Steel|70|95|55|45|1|False|1389|25|35
+82|Magneton|Electric|Steel|95|120|70|70|1|False|2024|50|60
+83|Farfetch'd|Normal|Flying|55|58|62|60|1|False|1581|52|65
+84|Doduo|Normal|Flying|45|35|35|75|1|False|1399|35|85
+85|Dodrio|Normal|Flying|70|60|60|100|1|False|2074|60|110
+86|Seel|Water||55|45|70|45|1|False|1479|65|45
+87|Dewgong|Water|Ice|80|70|95|70|1|False|2154|90|70
+88|Grimer|Poison||50|40|50|25|1|False|1544|80|80
+89|Muk|Poison||75|65|100|50|1|False|2319|105|105
+90|Shellder|Water||100|45|25|40|1|False|1349|30|65
+91|Cloyster|Water|Ice|180|85|45|70|1|False|2299|50|95
+92|Gastly|Ghost|Poison|30|100|35|80|1|False|1339|30|35
+93|Haunter|Ghost|Poison|45|115|55|95|1|False|1764|45|50
+94|Gengar|Ghost|Poison|60|130|75|110|1|False|2189|60|65
+94|GengarMega Gengar|Ghost|Poison|80|170|95|130|1|False|2589|60|65
+95|Onix|Rock|Ground|160|30|45|70|1|False|1659|35|45
+96|Drowzee|Psychic||45|43|90|42|1|False|1484|60|48
+97|Hypno|Psychic||70|73|115|67|1|False|2179|85|73
+98|Krabby|Water||90|25|25|50|1|False|1469|30|105
+99|Kingler|Water||115|50|50|75|1|False|2144|55|130
+100|Voltorb|Electric||50|55|55|100|1|False|1434|40|30
+101|Electrode|Electric||70|80|80|140|1|False|2094|60|50
+102|Exeggcute|Grass|Psychic|80|60|45|40|1|False|1464|60|40
+103|Exeggutor|Grass|Psychic|85|125|65|55|1|False|2369|95|95
+104|Cubone|Ground||95|40|50|35|1|False|1434|50|50
+105|Marowak|Ground||110|50|80|45|1|False|1904|60|80
+106|Hitmonlee|Fighting||53|35|110|87|1|False|2044|50|120
+107|Hitmonchan|Fighting||79|35|110|76|1|False|2029|50|105
+108|Lickitung|Normal||75|60|75|30|1|False|1779|90|55
+109|Koffing|Poison||95|60|45|35|1|False|1509|40|65
+110|Weezing|Poison||120|85|70|60|1|False|2184|65|90
+111|Rhyhorn|Ground|Rock|95|30|30|25|1|False|1629|80|85
+112|Rhydon|Ground|Rock|120|45|45|40|1|False|2284|105|130
+113|Chansey|Normal||5|35|105|50|1|False|2309|250|5
+114|Tangela|Grass||115|100|40|60|1|False|1929|65|55
+115|Kangaskhan|Normal||80|40|80|90|1|False|2269|105|95
+115|KangaskhanMega Kangaskhan|Normal||100|60|100|100|1|False|2699|105|125
+116|Horsea|Water||70|70|25|60|1|False|1284|30|40
+117|Seadra|Water||95|95|45|85|1|False|1939|55|65
+118|Goldeen|Water||60|35|50|63|1|False|1441|45|67
+119|Seaking|Water||65|65|80|68|1|False|2056|80|92
+120|Staryu|Water||55|70|55|85|1|False|1469|30|45
+121|Starmie|Water|Psychic|85|100|85|115|1|False|2279|60|75
+122|Mr. Mime|Psychic|Fairy|65|100|120|90|1|False|1969|40|45
+123|Scyther|Bug|Flying|80|55|80|105|1|False|2254|70|110
+124|Jynx|Ice|Psychic|35|115|95|95|1|False|2004|65|50
+125|Electabuzz|Electric||57|95|85|105|1|False|2177|65|83
+126|Magmar|Fire||57|100|85|93|1|False|2209|65|95
+127|Pinsir|Bug||100|55|70|85|1|False|2259|65|125
+127|PinsirMega Pinsir|Bug|Flying|120|65|90|105|1|False|2689|65|155
+128|Tauros|Normal||95|40|70|110|1|False|2214|75|100
+129|Magikarp|Water||55|15|20|80|1|False|854|20|10
+130|Gyarados|Water|Flying|79|60|100|81|1|False|2479|95|125
+130|GyaradosMega Gyarados|Water|Dark|109|70|130|81|1|False|2909|95|155
+131|Lapras|Water|Ice|80|85|95|60|1|False|2489|130|85
+132|Ditto|Normal||48|48|48|48|1|False|1300|48|48
+133|Eevee|Normal||50|45|65|55|1|False|1469|55|55
+134|Vaporeon|Water||60|110|95|65|1|False|2429|130|65
+135|Jolteon|Electric||60|110|95|130|1|False|2299|65|65
+136|Flareon|Fire||60|95|110|65|1|False|2364|65|130
+137|Porygon|Normal||70|85|75|40|1|False|1774|65|60
+138|Omanyte|Rock|Water|100|90|55|35|1|False|1534|35|40
+139|Omastar|Rock|Water|125|115|70|55|1|False|2184|70|60
+140|Kabuto|Rock|Water|90|55|45|55|1|False|1564|30|80
+141|Kabutops|Rock|Water|105|65|70|80|1|False|2219|60|115
+142|Aerodactyl|Rock|Flying|65|60|75|130|1|False|2329|80|105
+142|AerodactylMega Aerodactyl|Rock|Flying|85|70|95|150|1|False|2759|80|135
+143|Snorlax|Normal||65|65|110|30|1|False|2594|160|110
+144|Articuno|Ice|Flying|100|95|125|85|1|True|2594|90|85
+145|Zapdos|Electric|Flying|85|125|90|100|1|True|2599|90|90
+146|Moltres|Fire|Flying|90|125|85|90|1|True|2609|90|100
+147|Dratini|Dragon||45|50|50|50|1|False|1350|41|64
+148|Dragonair|Dragon||65|70|70|70|1|False|1890|61|84
+149|Dragonite|Dragon|Flying|95|100|100|80|1|False|2720|91|134
+150|Mewtwo|Psychic||90|154|90|130|1|True|3051|106|110
+150|MewtwoMega Mewtwo X|Psychic|Fighting|100|154|100|130|1|True|3531|106|190
+150|MewtwoMega Mewtwo Y|Psychic||70|194|120|140|1|True|3491|106|150
+151|Mew|Psychic||100|100|100|100|1|False|2704|100|100
+152|Chikorita|Grass||65|49|65|45|2|False|1419|45|49
+153|Bayleef|Grass||80|63|80|60|2|False|1810|60|62
+154|Meganium|Grass||100|83|100|80|2|False|2350|80|82
+155|Cyndaquil|Fire||43|60|50|65|2|False|1374|39|52
+156|Quilava|Fire||58|80|65|80|2|False|1808|58|64
+157|Typhlosion|Fire||78|109|85|100|2|False|2384|78|84
+158|Totodile|Water||64|44|48|43|2|False|1429|50|65
+159|Croconaw|Water||80|59|63|58|2|False|1838|65|80
+160|Feraligatr|Water||100|79|83|78|2|False|2403|85|105
+161|Sentret|Normal||34|35|45|20|2|False|984|35|46
+162|Furret|Normal||64|45|55|90|2|False|1914|85|76
+163|Hoothoot|Normal|Flying|30|36|56|50|2|False|1206|60|30
+164|Noctowl|Normal|Flying|50|76|96|70|2|False|2026|100|50
+165|Ledyba|Bug|Flying|30|40|80|55|2|False|1168|40|20
+166|Ledian|Bug|Flying|50|55|110|85|2|False|1713|55|35
+167|Spinarak|Bug|Poison|40|40|40|30|2|False|1148|40|60
+168|Ariados|Bug|Poison|70|60|60|40|2|False|1798|70|90
+169|Crobat|Poison|Flying|80|70|80|130|2|False|2408|85|90
+170|Chinchou|Water|Electric|38|56|56|67|2|False|1516|75|38
+171|Lanturn|Water|Electric|58|76|76|67|2|False|2156|125|58
+172|Pichu|Electric||15|35|35|60|2|False|908|20|40
+173|Cleffa|Fairy||28|45|55|15|2|False|1005|50|25
+174|Igglybuff|Normal|Fairy|15|40|20|15|2|False|1058|90|30
+175|Togepi|Fairy||65|40|65|20|2|False|1078|35|20
+176|Togetic|Fairy|Flying|85|80|105|40|2|False|1778|55|40
+177|Natu|Psychic|Flying|45|70|45|70|2|False|1418|40|50
+178|Xatu|Psychic|Flying|70|95|70|95|2|False|2093|65|75
+179|Mareep|Electric||40|65|45|35|2|False|1278|55|40
+180|Flaaffy|Electric||55|80|60|45|2|False|1663|70|55
+181|Ampharos|Electric||85|115|90|55|2|False|2303|90|75
+181|AmpharosMega Ampharos|Electric|Dragon|105|165|110|45|2|False|2723|90|95
+182|Bellossom|Grass||95|90|100|50|2|False|2198|75|80
+183|Marill|Water|Fairy|50|20|50|40|2|False|1168|70|20
+184|Azumarill|Water|Fairy|80|60|80|50|2|False|1938|100|50
+185|Sudowoodo|Rock||115|30|65|30|2|False|1888|70|100
+186|Politoed|Water||75|90|100|70|2|False|2263|90|75
+187|Hoppip|Grass|Flying|40|35|55|50|2|False|1113|35|35
+188|Skiploom|Grass|Flying|50|45|65|80|2|False|1523|55|45
+189|Jumpluff|Grass|Flying|70|55|95|110|2|False|2053|75|55
+190|Aipom|Normal||55|40|55|85|2|False|1628|55|70
+191|Sunkern|Grass||30|30|30|30|2|False|818|30|30
+192|Sunflora|Grass||55|105|85|30|2|False|1933|75|75
+193|Yanma|Bug|Flying|45|75|45|95|2|False|1763|65|65
+194|Wooper|Water|Ground|45|25|25|15|2|False|1003|55|45
+195|Quagsire|Water|Ground|85|65|65|35|2|False|2003|95|85
+196|Espeon|Psychic||60|130|95|110|2|False|2303|65|65
+197|Umbreon|Dark||110|60|130|65|2|False|2363|95|65
+198|Murkrow|Dark|Flying|42|85|42|91|2|False|1833|60|85
+199|Slowking|Water|Psychic|80|100|110|30|2|False|2233|95|75
+200|Misdreavus|Ghost||60|85|85|85|2|False|1928|60|60
+201|Unown|Psychic||48|72|48|48|2|False|1520|48|72
+202|Wobbuffet|Psychic||58|33|58|33|2|False|2041|190|33
+203|Girafarig|Normal|Psychic|65|90|65|85|2|False|2048|70|80
+204|Pineco|Bug||90|35|35|15|2|False|1333|50|65
+205|Forretress|Bug|Steel|140|60|60|40|2|False|2108|75|90
+206|Dunsparce|Normal||70|65|65|45|2|False|1938|100|70
+207|Gligar|Ground|Flying|105|35|65|85|2|False|1933|65|75
+208|Steelix|Steel|Ground|200|55|65|30|2|False|2283|75|85
+208|SteelixMega Steelix|Steel|Ground|230|55|95|30|2|False|2723|75|125
+209|Snubbull|Fairy||50|40|40|30|2|False|1408|60|80
+210|Granbull|Fairy||75|60|60|45|2|False|2108|90|120
+211|Qwilfish|Water|Poison|75|55|55|85|2|False|1953|65|95
+212|Scizor|Bug|Steel|100|55|80|65|2|False|2278|70|130
+212|ScizorMega Scizor|Bug|Steel|140|65|100|75|2|False|2698|70|150
+213|Shuckle|Bug|Rock|230|10|230|5|2|False|2078|20|10
+214|Heracross|Bug|Fighting|75|40|95|85|2|False|2293|80|125
+214|HeracrossMega Heracross|Bug|Fighting|115|40|105|75|2|False|2753|80|185
+215|Sneasel|Dark|Ice|55|35|75|115|2|False|1933|55|95
+216|Teddiursa|Normal||50|50|50|40|2|False|1528|60|80
+217|Ursaring|Normal||75|75|75|55|2|False|2318|90|130
+218|Slugma|Fire||40|70|40|20|2|False|1128|40|40
+219|Magcargo|Fire|Rock|120|80|80|30|2|False|1798|50|50
+220|Swinub|Ice|Ground|40|30|30|50|2|False|1158|50|50
+221|Piloswine|Ice|Ground|80|60|60|50|2|False|2108|100|100
+222|Corsola|Water|Rock|85|65|85|35|2|False|1693|55|55
+223|Remoraid|Water||35|65|35|65|2|False|1343|35|65
+224|Octillery|Water||75|105|75|45|2|False|2183|75|105
+225|Delibird|Ice|Flying|45|65|45|75|2|False|1473|45|55
+226|Mantine|Water|Flying|70|80|140|70|2|False|2038|65|40
+227|Skarmory|Steel|Flying|140|40|70|70|2|False|2078|65|80
+228|Houndour|Dark|Fire|30|80|50|65|2|False|1478|45|60
+229|Houndoom|Dark|Fire|50|110|80|95|2|False|2248|75|90
+229|HoundoomMega Houndoom|Dark|Fire|90|140|90|115|2|False|2648|75|90
+230|Kingdra|Water|Dragon|95|95|95|85|2|False|2413|75|95
+231|Phanpy|Ground||60|40|40|40|2|False|1568|90|60
+232|Donphan|Ground||120|60|60|50|2|False|2308|90|120
+233|Porygon2|Normal||90|105|95|60|2|False|2318|85|80
+234|Stantler|Normal||62|85|65|85|2|False|2109|73|95
+235|Smeargle|Normal||35|20|45|75|2|False|1138|55|20
+236|Tyrogue|Fighting||35|35|35|35|2|False|953|35|35
+237|Hitmontop|Fighting||95|35|110|70|2|False|2023|50|95
+238|Smoochum|Ice|Psychic|15|85|65|65|2|False|1348|45|30
+239|Elekid|Electric||37|65|55|95|2|False|1601|45|63
+240|Magby|Fire||37|70|55|83|2|False|1633|45|75
+241|Miltank|Normal||105|40|70|100|2|False|2238|95|80
+242|Blissey|Normal||10|75|135|55|2|False|2688|255|10
+243|Raikou|Electric||75|115|100|115|2|True|2598|90|85
+244|Entei|Fire||85|90|75|100|2|True|2678|115|115
+245|Suicune|Water||115|90|115|85|2|True|2608|100|75
+246|Larvitar|Rock|Ground|50|45|50|41|2|False|1372|50|64
+247|Pupitar|Rock|Ground|70|65|70|51|2|False|1872|70|84
+248|Tyranitar|Rock|Dark|110|95|100|61|2|False|2742|100|134
+248|TyranitarMega Tyranitar|Rock|Dark|150|95|120|71|2|False|3172|100|164
+249|Lugia|Psychic|Flying|130|90|154|110|2|True|3035|106|90
+250|Ho-oh|Fire|Flying|90|110|154|90|2|True|3075|106|130
+251|Celebi|Psychic|Grass|100|100|100|100|2|False|2708|100|100
+252|Treecko|Grass||35|65|55|70|3|False|1377|40|45
+253|Grovyle|Grass||45|85|65|95|3|False|1797|50|65
+254|Sceptile|Grass||65|105|85|120|3|False|2357|70|85
+254|SceptileMega Sceptile|Grass|Dragon|75|145|85|145|3|False|2782|70|110
+255|Torchic|Fire||40|70|50|45|3|False|1402|45|60
+256|Combusken|Fire|Fighting|60|85|60|55|3|False|1837|60|85
+257|Blaziken|Fire|Fighting|70|110|70|80|3|False|2412|80|120
+257|BlazikenMega Blaziken|Fire|Fighting|80|130|80|100|3|False|2852|80|160
+258|Mudkip|Water||50|50|50|40|3|False|1422|50|70
+259|Marshtomp|Water|Ground|70|60|70|50|3|False|1857|70|85
+260|Swampert|Water|Ground|90|85|90|60|3|False|2462|100|110
+260|SwampertMega Swampert|Water|Ground|110|95|110|70|3|False|2902|100|150
+261|Poochyena|Dark||35|30|30|35|3|False|1017|35|55
+262|Mightyena|Dark||70|60|60|70|3|False|1922|70|90
+263|Zigzagoon|Normal||41|30|41|60|3|False|1078|38|30
+264|Linoone|Normal||61|50|61|100|3|False|1918|78|70
+265|Wurmple|Bug||35|20|30|20|3|False|927|45|45
+266|Silcoon|Bug||55|25|25|15|3|False|967|50|35
+267|Beautifly|Bug|Flying|50|100|50|65|3|False|1782|60|70
+268|Cascoon|Bug||55|25|25|15|3|False|967|50|35
+269|Dustox|Bug|Poison|70|50|90|65|3|False|1722|60|50
+270|Lotad|Water|Grass|30|40|50|30|3|False|1002|40|30
+271|Lombre|Water|Grass|50|60|70|50|3|False|1542|60|50
+272|Ludicolo|Water|Grass|70|90|100|70|3|False|2162|80|70
+273|Seedot|Grass||50|30|30|30|3|False|1012|40|40
+274|Nuzleaf|Grass|Dark|40|60|40|60|3|False|1582|70|70
+275|Shiftry|Grass|Dark|60|90|60|80|3|False|2212|90|100
+276|Taillow|Normal|Flying|30|30|30|85|3|False|1227|40|55
+277|Swellow|Normal|Flying|60|50|50|125|3|False|1937|60|85
+278|Wingull|Water|Flying|30|55|30|85|3|False|1202|40|30
+279|Pelipper|Water|Flying|100|85|70|65|3|False|1902|60|50
+280|Ralts|Psychic|Fairy|25|45|35|40|3|False|885|28|25
+281|Kirlia|Psychic|Fairy|35|65|55|50|3|False|1235|38|35
+282|Gardevoir|Psychic|Fairy|65|125|115|80|3|False|2285|68|65
+282|GardevoirMega Gardevoir|Psychic|Fairy|65|165|135|100|3|False|2705|68|85
+283|Surskit|Bug|Water|32|50|52|65|3|False|1198|40|30
+284|Masquerain|Bug|Flying|62|80|82|60|3|False|1868|70|60
+285|Shroomish|Grass||60|40|60|35|3|False|1352|60|40
+286|Breloom|Grass|Fighting|80|60|60|70|3|False|2102|60|130
+287|Slakoth|Normal||60|35|35|30|3|False|1312|60|60
+288|Vigoroth|Normal||80|55|55|90|3|False|2012|80|80
+289|Slaking|Normal||100|95|65|100|3|False|3152|150|160
+290|Nincada|Bug|Ground|90|30|30|40|3|False|1183|31|45
+291|Ninjask|Bug|Flying|45|50|50|160|3|False|2048|61|90
+292|Shedinja|Bug|Ghost|45|30|30|40|3|False|1048|1|90
+293|Whismur|Normal||23|51|23|28|3|False|1151|64|51
+294|Loudred|Normal||43|71|43|48|3|False|1691|84|71
+295|Exploud|Normal||63|91|73|68|3|False|2271|104|91
+296|Makuhita|Fighting||30|20|30|25|3|False|1164|72|60
+297|Hariyama|Fighting||60|40|60|50|3|False|2316|144|120
+298|Azurill|Normal|Fairy|40|20|40|20|3|False|892|50|20
+299|Nosepass|Rock||135|45|90|30|3|False|1617|30|45
+300|Skitty|Normal||45|35|35|50|3|False|1197|50|45
+301|Delcatty|Normal||65|55|55|70|3|False|1737|70|65
+302|Sableye|Dark|Ghost|75|65|65|50|3|False|1707|50|75
+302|SableyeMega Sableye|Dark|Ghost|125|85|115|20|3|False|2117|50|85
+303|Mawile|Steel|Fairy|85|55|55|50|3|False|1717|50|85
+303|MawileMega Mawile|Steel|Fairy|125|55|95|50|3|False|2137|50|105
+304|Aron|Steel|Rock|100|40|40|30|3|False|1502|50|70
+305|Lairon|Steel|Rock|140|50|50|40|3|False|1942|60|90
+306|Aggron|Steel|Rock|180|60|60|50|3|False|2382|70|110
+306|AggronMega Aggron|Steel||230|60|80|50|3|False|2812|70|140
+307|Meditite|Fighting|Psychic|55|40|55|60|3|False|1232|30|40
+308|Medicham|Fighting|Psychic|75|60|75|80|3|False|1832|60|60
+308|MedichamMega Medicham|Fighting|Psychic|85|80|85|100|3|False|2272|60|100
+309|Electrike|Electric||40|65|40|65|3|False|1317|40|45
+310|Manectric|Electric||60|105|60|105|3|False|2127|70|75
+310|ManectricMega Manectric|Electric||80|135|80|135|3|False|2527|70|75
+311|Plusle|Electric||40|85|75|95|3|False|1802|60|50
+312|Minun|Electric||50|75|85|95|3|False|1792|60|40
+313|Volbeat|Bug||55|47|75|85|3|False|1815|65|73
+314|Illumise|Bug||55|73|75|85|3|False|1789|65|47
+315|Roselia|Grass|Poison|45|100|80|65|3|False|1772|50|60
+316|Gulpin|Poison||53|43|53|40|3|False|1403|70|43
+317|Swalot|Poison||83|73|83|55|3|False|2153|100|73
+318|Carvanha|Water|Dark|20|65|20|65|3|False|1412|45|90
+319|Sharpedo|Water|Dark|40|95|40|95|3|False|2112|70|120
+319|SharpedoMega Sharpedo|Water|Dark|70|110|65|105|3|False|2532|70|140
+320|Wailmer|Water||35|70|35|60|3|False|1942|130|70
+321|Wailord|Water||45|90|45|60|3|False|2442|170|90
+322|Numel|Fire|Ground|40|65|45|35|3|False|1412|60|60
+323|Camerupt|Fire|Ground|70|105|75|40|3|False|2092|70|100
+323|CameruptMega Camerupt|Fire|Ground|100|145|105|20|3|False|2512|70|120
+324|Torkoal|Fire||140|85|70|20|3|False|2117|70|85
+325|Spoink|Psychic||35|70|80|60|3|False|1477|60|25
+326|Grumpig|Psychic||65|90|110|80|3|False|2097|80|45
+327|Spinda|Normal||60|60|60|60|3|False|1632|60|60
+328|Trapinch|Ground||45|45|45|10|3|False|1362|45|100
+329|Vibrava|Ground|Dragon|50|50|50|70|3|False|1542|50|70
+330|Flygon|Ground|Dragon|80|80|80|100|3|False|2352|80|100
+331|Cacnea|Grass||40|85|40|35|3|False|1537|50|85
+332|Cacturne|Grass|Dark|60|115|60|55|3|False|2167|70|115
+333|Swablu|Normal|Flying|60|40|75|50|3|False|1382|45|40
+334|Altaria|Dragon|Flying|90|70|105|80|3|False|2192|75|70
+334|AltariaMega Altaria|Dragon|Fairy|110|110|105|80|3|False|2632|75|110
+335|Zangoose|Normal||60|60|60|90|3|False|2105|73|115
+336|Seviper|Poison||60|100|60|65|3|False|2090|73|100
+337|Lunatone|Rock|Psychic|65|95|85|70|3|False|1967|70|55
+338|Solrock|Rock|Psychic|85|55|65|70|3|False|2007|70|95
+339|Barboach|Water|Ground|43|46|41|60|3|False|1312|50|48
+340|Whiscash|Water|Ground|73|76|71|60|3|False|2182|110|78
+341|Corphish|Water||65|50|35|35|3|False|1410|43|80
+342|Crawdaunt|Water|Dark|85|90|55|55|3|False|2130|63|120
+343|Baltoy|Ground|Psychic|55|40|70|55|3|False|1332|40|40
+344|Claydol|Ground|Psychic|105|70|120|75|3|False|2202|60|70
+345|Lileep|Rock|Grass|77|61|87|23|3|False|1605|66|41
+346|Cradily|Rock|Grass|97|81|107|43|3|False|2245|86|81
+347|Anorith|Rock|Bug|50|40|50|75|3|False|1617|45|95
+348|Armaldo|Rock|Bug|100|70|80|45|3|False|2267|75|125
+349|Feebas|Water||20|10|55|80|3|False|867|20|15
+350|Milotic|Water||79|100|125|81|3|False|2422|95|60
+351|Castform|Normal||70|70|70|70|3|False|1902|70|70
+352|Kecleon|Normal||70|60|120|40|3|False|1982|60|90
+353|Shuppet|Ghost||35|63|33|45|3|False|1355|44|75
+354|Banette|Ghost||65|83|63|65|3|False|2075|64|115
+354|BanetteMega Banette|Ghost||75|93|83|75|3|False|2525|64|165
+355|Duskull|Ghost||90|30|90|25|3|False|1272|20|40
+356|Dusclops|Ghost||130|60|130|25|3|False|1982|40|70
+357|Tropius|Grass|Flying|83|72|87|51|3|False|2118|99|68
+358|Chimecho|Psychic||70|95|80|65|3|False|1892|65|50
+359|Absol|Dark||60|75|60|75|3|False|2132|65|130
+359|AbsolMega Absol|Dark||60|115|60|115|3|False|2552|65|150
+360|Wynaut|Psychic||48|23|48|23|3|False|1265|95|23
+361|Snorunt|Ice||50|50|50|50|3|False|1362|50|50
+362|Glalie|Ice||80|80|80|80|3|False|2172|80|80
+362|GlalieMega Glalie|Ice||80|120|80|100|3|False|2612|80|120
+363|Spheal|Ice|Water|50|55|50|25|3|False|1352|70|40
+364|Sealeo|Ice|Water|70|75|70|45|3|False|1892|90|60
+365|Walrein|Ice|Water|90|95|90|65|3|False|2432|110|80
+366|Clamperl|Water||85|74|55|32|3|False|1526|35|64
+367|Huntail|Water||105|94|75|52|3|False|2166|55|104
+368|Gorebyss|Water||105|114|75|52|3|False|2146|55|84
+369|Relicanth|Water|Rock|130|45|65|55|3|False|2242|100|90
+370|Luvdisc|Water||55|40|65|97|3|False|1448|43|30
+371|Bagon|Dragon||60|40|30|50|3|False|1377|45|75
+372|Shelgon|Dragon||100|60|50|50|3|False|1917|65|95
+373|Salamence|Dragon|Flying|80|110|80|100|3|False|2737|95|135
+373|SalamenceMega Salamence|Dragon|Flying|130|120|90|120|3|False|3147|95|145
+374|Beldum|Steel|Psychic|80|35|60|30|3|False|1347|40|55
+375|Metang|Steel|Psychic|100|55|80|50|3|False|1887|60|75
+376|Metagross|Steel|Psychic|130|95|90|70|3|False|2707|80|135
+376|MetagrossMega Metagross|Steel|Psychic|150|105|110|110|3|False|3117|80|145
+377|Regirock|Rock||200|50|100|50|3|True|2597|80|100
+378|Regice|Ice||100|100|200|50|3|True|2547|80|50
+379|Registeel|Steel||150|75|150|50|3|True|2572|80|75
+380|Latias|Dragon|Psychic|90|110|130|110|3|True|2657|80|80
+380|LatiasMega Latias|Dragon|Psychic|120|140|150|110|3|True|3077|80|100
+381|Latios|Dragon|Psychic|80|130|110|110|3|True|2667|80|90
+381|LatiosMega Latios|Dragon|Psychic|100|160|120|110|3|True|3107|80|130
+382|Kyogre|Water||90|150|140|90|3|True|2997|100|100
+382|KyogrePrimal Kyogre|Water||90|180|160|90|3|True|3447|100|150
+383|Groudon|Ground||140|100|90|90|3|True|3047|100|150
+383|GroudonPrimal Groudon|Ground|Fire|160|150|90|90|3|True|3477|100|180
+384|Rayquaza|Dragon|Flying|90|150|90|95|3|True|3097|105|150
+384|RayquazaMega Rayquaza|Dragon|Flying|100|180|100|115|3|True|3527|105|180
+385|Jirachi|Steel|Psychic|100|100|100|100|3|True|2717|100|100
+386|DeoxysNormal Forme|Psychic||50|150|50|150|3|True|2667|50|150
+386|DeoxysAttack Forme|Psychic||20|180|20|150|3|True|2697|50|180
+386|DeoxysDefense Forme|Psychic||160|70|160|90|3|True|2587|50|70
+386|DeoxysSpeed Forme|Psychic||90|95|90|180|3|True|2612|50|95
+387|Turtwig|Grass||64|45|55|31|4|False|1466|55|68
+388|Grotle|Grass||85|55|65|36|4|False|1875|75|89
+389|Torterra|Grass|Ground|105|75|85|56|4|False|2415|95|109
+390|Chimchar|Fire||44|58|44|61|4|False|1398|44|58
+391|Monferno|Fire|Fighting|52|78|52|81|4|False|1842|64|78
+392|Infernape|Fire|Fighting|71|104|71|108|4|False|2408|76|104
+393|Piplup|Water||53|61|56|40|4|False|1429|53|51
+394|Prinplup|Water||68|81|76|50|4|False|1830|64|66
+395|Empoleon|Water|Steel|88|111|101|60|4|False|2390|84|86
+396|Starly|Normal|Flying|30|30|30|60|4|False|1131|40|55
+397|Staravia|Normal|Flying|50|40|40|80|4|False|1561|55|75
+398|Staraptor|Normal|Flying|70|50|60|100|4|False|2246|85|120
+399|Bidoof|Normal||40|35|40|31|4|False|1179|59|45
+400|Bibarel|Normal|Water|60|55|60|71|4|False|1899|79|85
+401|Kricketot|Bug||41|25|41|25|4|False|891|37|25
+402|Kricketune|Bug||51|55|51|65|4|False|1791|77|85
+403|Shinx|Electric||34|40|34|45|4|False|1223|45|65
+404|Luxio|Electric||49|60|49|60|4|False|1673|60|85
+405|Luxray|Electric||79|95|79|70|4|False|2388|80|120
+406|Budew|Grass|Poison|35|50|70|55|4|False|1246|40|30
+407|Roserade|Grass|Poison|65|125|105|90|4|False|2266|60|70
+408|Cranidos|Rock||40|30|30|58|4|False|1675|67|125
+409|Rampardos|Rock||60|65|50|58|4|False|2355|97|165
+410|Shieldon|Rock|Steel|118|42|88|30|4|False|1518|30|42
+411|Bastiodon|Rock|Steel|168|47|138|30|4|False|2168|60|52
+412|Burmy|Bug||45|29|45|36|4|False|1021|40|29
+413|WormadamPlant Cloak|Bug|Grass|85|79|105|36|4|False|1891|60|59
+413|WormadamSandy Cloak|Bug|Ground|105|59|85|36|4|False|1911|60|79
+413|WormadamTrash Cloak|Bug|Steel|95|69|95|36|4|False|1901|60|69
+414|Mothim|Bug|Flying|50|94|50|66|4|False|1946|70|94
+415|Combee|Bug|Flying|42|30|42|70|4|False|1082|30|30
+416|Vespiquen|Bug|Flying|102|80|102|40|4|False|2132|70|80
+417|Pachirisu|Electric||70|45|90|95|4|False|1801|60|45
+418|Buizel|Water||35|60|30|85|4|False|1511|55|65
+419|Floatzel|Water||55|85|50|115|4|False|2271|85|105
+420|Cherubi|Grass||45|62|53|35|4|False|1241|45|35
+421|Cherrim|Grass||70|87|78|85|4|False|2016|70|60
+422|Shellos|Water||48|57|62|34|4|False|1516|76|48
+423|Gastrodon|Water|Ground|68|92|82|39|4|False|2221|111|83
+424|Ambipom|Normal||66|60|66|115|4|False|2194|75|100
+425|Drifloon|Ghost|Flying|34|60|44|70|4|False|1638|90|50
+426|Drifblim|Ghost|Flying|44|90|54|80|4|False|2388|150|80
+427|Buneary|Normal||44|44|56|85|4|False|1592|55|66
+428|Lopunny|Normal||84|54|96|105|4|False|2142|65|76
+428|LopunnyMega Lopunny|Normal|Fighting|94|54|96|135|4|False|2602|65|136
+429|Mismagius|Ghost||60|105|105|105|4|False|2176|60|60
+430|Honchkrow|Dark|Flying|52|105|52|71|4|False|2361|100|125
+431|Glameow|Normal||42|42|37|85|4|False|1409|49|55
+432|Purugly|Normal||64|64|59|112|4|False|2048|71|82
+433|Chingling|Psychic||50|65|50|45|4|False|1276|45|30
+434|Stunky|Poison|Dark|47|41|41|74|4|False|1521|63|63
+435|Skuntank|Poison|Dark|67|71|61|84|4|False|2231|103|93
+436|Bronzor|Steel|Psychic|86|24|86|23|4|False|1354|57|24
+437|Bronzong|Steel|Psychic|116|79|116|33|4|False|2239|67|89
+438|Bonsly|Rock||95|10|45|10|4|False|1356|50|80
+439|Mime Jr.|Psychic|Fairy|45|70|90|60|4|False|1321|20|25
+440|Happiny|Normal||5|15|65|30|4|False|1101|100|5
+441|Chatot|Normal|Flying|45|92|42|91|4|False|1877|76|65
+442|Spiritomb|Ghost|Dark|108|92|108|35|4|False|2148|50|92
+443|Gible|Dragon|Ground|45|40|45|42|4|False|1402|58|70
+444|Gabite|Dragon|Ground|65|50|55|82|4|False|1882|68|90
+445|Garchomp|Dragon|Ground|95|80|85|102|4|False|2762|108|130
+445|GarchompMega Garchomp|Dragon|Ground|115|120|95|92|4|False|3202|108|170
+446|Munchlax|Normal||40|40|85|5|4|False|1931|135|85
+447|Riolu|Fighting||40|35|40|60|4|False|1306|40|70
+448|Lucario|Fighting|Steel|70|115|70|90|4|False|2366|70|110
+448|LucarioMega Lucario|Fighting|Steel|88|140|70|112|4|False|2801|70|145
+449|Hippopotas|Ground||78|38|42|32|4|False|1544|68|72
+450|Hippowdon|Ground||118|68|72|47|4|False|2444|108|112
+451|Skorupi|Poison|Bug|90|30|55|65|4|False|1466|40|50
+452|Drapion|Poison|Dark|110|60|75|95|4|False|2246|70|90
+453|Croagunk|Poison|Fighting|40|61|40|50|4|False|1373|48|61
+454|Toxicroak|Poison|Fighting|65|86|65|85|4|False|2248|83|106
+455|Carnivine|Grass||72|90|72|46|4|False|2080|74|100
+456|Finneon|Water||56|49|61|66|4|False|1483|49|49
+457|Lumineon|Water||76|69|86|91|4|False|2063|69|69
+458|Mantyke|Water|Flying|50|60|120|50|4|False|1506|45|20
+459|Snover|Grass|Ice|50|62|60|40|4|False|1534|60|62
+460|Abomasnow|Grass|Ice|75|92|85|60|4|False|2264|90|92
+460|AbomasnowMega Abomasnow|Grass|Ice|105|132|105|30|4|False|2704|90|132
+461|Weavile|Dark|Ice|65|45|85|125|4|False|2316|70|120
+462|Magnezone|Electric|Steel|115|130|90|60|4|False|2366|70|70
+463|Lickilicky|Normal||95|80|95|50|4|False|2381|110|85
+464|Rhyperior|Ground|Rock|130|55|55|40|4|False|2526|115|140
+465|Tangrowth|Grass||125|110|50|50|4|False|2456|100|100
+466|Electivire|Electric||67|95|85|95|4|False|2449|75|123
+467|Magmortar|Fire||67|125|95|83|4|False|2421|75|95
+468|Togekiss|Fairy|Flying|95|120|115|80|4|False|2416|85|50
+469|Yanmega|Bug|Flying|86|116|56|95|4|False|2324|86|76
+470|Leafeon|Grass||130|60|65|95|4|False|2356|65|110
+471|Glaceon|Ice||110|130|95|65|4|False|2306|65|60
+472|Gliscor|Ground|Flying|125|45|75|95|4|False|2301|75|95
+473|Mamoswine|Ice|Ground|80|70|60|80|4|False|2486|110|130
+474|Porygon-Z|Normal||70|135|75|90|4|False|2406|85|80
+475|Gallade|Psychic|Fighting|65|65|115|80|4|False|2349|68|125
+475|GalladeMega Gallade|Psychic|Fighting|95|65|115|110|4|False|2789|68|165
+476|Probopass|Rock|Steel|145|75|150|40|4|False|2291|60|55
+477|Dusknoir|Ghost||135|65|135|45|4|False|2306|45|100
+478|Froslass|Ice|Ghost|70|80|70|110|4|False|2156|70|80
+479|Rotom|Electric|Ghost|77|95|77|91|4|False|1926|50|50
+479|RotomHeat Rotom|Electric|Fire|107|105|107|86|4|False|2261|50|65
+479|RotomWash Rotom|Electric|Water|107|105|107|86|4|False|2261|50|65
+479|RotomFrost Rotom|Electric|Ice|107|105|107|86|4|False|2261|50|65
+479|RotomFan Rotom|Electric|Flying|107|105|107|86|4|False|2261|50|65
+479|RotomMow Rotom|Electric|Grass|107|105|107|86|4|False|2261|50|65
+480|Uxie|Psychic||130|75|130|95|4|True|2566|75|75
+481|Mesprit|Psychic||105|105|105|80|4|True|2606|80|105
+482|Azelf|Psychic||70|125|70|115|4|True|2616|75|125
+483|Dialga|Steel|Dragon|120|150|100|90|4|True|3061|100|120
+484|Palkia|Water|Dragon|100|150|120|100|4|True|3041|90|120
+485|Heatran|Fire|Steel|106|130|106|77|4|True|2693|91|90
+486|Regigigas|Normal||110|80|110|100|4|True|3081|110|160
+487|GiratinaAltered Forme|Ghost|Dragon|120|100|120|90|4|True|3141|150|100
+487|GiratinaOrigin Forme|Ghost|Dragon|100|120|100|90|4|True|3161|150|120
+488|Cresselia|Psychic||120|75|130|85|4|False|2726|120|70
+489|Phione|Water||80|80|80|80|4|False|2176|80|80
+490|Manaphy|Water||100|100|100|100|4|False|2716|100|100
+491|Darkrai|Dark||90|135|90|125|4|True|2651|70|90
+492|ShayminLand Forme|Grass||100|100|100|100|4|True|2721|100|100
+492|ShayminSky Forme|Grass|Flying|75|120|75|127|4|True|2724|100|103
+493|Arceus|Normal||120|120|120|120|4|True|3261|120|120
+494|Victini|Psychic|Fire|100|100|100|100|5|True|2725|100|100
+495|Snivy|Grass||55|45|55|63|5|False|1387|45|45
+496|Servine|Grass||75|60|75|83|5|False|1852|60|60
+497|Serperior|Grass||95|75|95|113|5|False|2357|75|75
+498|Tepig|Fire||45|45|45|45|5|False|1445|65|63
+499|Pignite|Fire|Fighting|55|70|55|55|5|False|1965|90|93
+500|Emboar|Fire|Fighting|65|100|65|65|5|False|2475|110|123
+501|Oshawott|Water||45|63|45|45|5|False|1417|55|55
+502|Dewott|Water||60|83|60|60|5|False|1897|75|75
+503|Samurott|Water||85|108|70|70|5|False|2422|95|100
+504|Patrat|Normal||39|35|39|42|5|False|1185|45|55
+505|Watchog|Normal||69|60|69|77|5|False|1905|60|85
+506|Lillipup|Normal||45|25|45|55|5|False|1270|45|60
+507|Herdier|Normal||65|35|65|60|5|False|1710|65|80
+508|Stoutland|Normal||90|45|90|80|5|False|2300|85|110
+509|Purrloin|Dark||37|50|37|66|5|False|1276|41|50
+510|Liepard|Dark||50|88|50|106|5|False|2020|64|88
+511|Pansage|Grass||48|53|48|64|5|False|1437|50|53
+512|Simisage|Grass||63|98|63|101|5|False|2260|75|98
+513|Pansear|Fire||48|53|48|64|5|False|1437|50|53
+514|Simisear|Fire||63|98|63|101|5|False|2260|75|98
+515|Panpour|Water||48|53|48|64|5|False|1437|50|53
+516|Simipour|Water||63|98|63|101|5|False|2260|75|98
+517|Munna|Psychic||45|67|55|24|5|False|1365|76|25
+518|Musharna|Psychic||85|107|95|29|5|False|2255|116|55
+519|Pidove|Normal|Flying|50|36|30|43|5|False|1231|50|55
+520|Tranquill|Normal|Flying|62|50|42|65|5|False|1653|62|77
+521|Unfezant|Normal|Flying|80|65|55|93|5|False|2247|80|115
+522|Blitzle|Electric||32|50|32|76|5|False|1350|45|60
+523|Zebstrika|Electric||63|80|63|116|5|False|2258|75|100
+524|Roggenrola|Rock||85|25|25|15|5|False|1325|55|75
+525|Boldore|Rock||105|50|40|20|5|False|1825|70|105
+526|Gigalith|Rock||130|60|80|25|5|False|2385|85|135
+527|Woobat|Psychic|Flying|43|55|43|72|5|False|1427|55|45
+528|Swoobat|Psychic|Flying|55|77|55|114|5|False|1911|67|57
+529|Drilbur|Ground||40|30|45|68|5|False|1537|60|85
+530|Excadrill|Ground|Steel|60|50|65|88|5|False|2407|110|135
+531|Audino|Normal||86|60|86|50|5|False|2066|103|60
+531|AudinoMega Audino|Normal|Fairy|126|80|126|50|5|False|2466|103|60
+532|Timburr|Fighting||55|25|35|35|5|False|1470|75|80
+533|Gurdurr|Fighting||85|40|50|40|5|False|1915|85|105
+534|Conkeldurr|Fighting||95|55|65|45|5|False|2390|105|140
+535|Tympole|Water||40|50|40|64|5|False|1346|50|50
+536|Palpitoad|Water|Ground|55|65|55|69|5|False|1771|75|65
+537|Seismitoad|Water|Ground|75|85|75|74|5|False|2361|105|95
+538|Throh|Fighting||85|30|85|45|5|False|2220|120|100
+539|Sawk|Fighting||75|30|75|85|5|False|2155|75|125
+540|Sewaddle|Bug|Grass|70|40|60|42|5|False|1403|45|53
+541|Swadloon|Bug|Grass|90|50|80|42|5|False|1713|55|63
+542|Leavanny|Bug|Grass|80|70|80|92|5|False|2273|75|103
+543|Venipede|Bug|Poison|59|30|39|57|5|False|1165|30|45
+544|Whirlipede|Bug|Poison|99|40|79|47|5|False|1595|40|55
+545|Scolipede|Bug|Poison|89|55|69|112|5|False|2180|60|100
+546|Cottonee|Grass|Fairy|60|37|50|66|5|False|1247|40|27
+547|Whimsicott|Grass|Fairy|85|77|75|116|5|False|2127|60|67
+548|Petilil|Grass||50|70|50|30|5|False|1265|45|35
+549|Lilligant|Grass||75|110|75|90|5|False|2140|70|60
+550|Basculin|Water||65|80|55|98|5|False|2092|70|92
+551|Sandile|Ground|Dark|35|35|35|65|5|False|1360|50|72
+552|Krokorok|Ground|Dark|45|45|45|74|5|False|1626|60|82
+553|Krookodile|Ground|Dark|80|65|70|92|5|False|2403|95|117
+554|Darumaka|Fire||45|15|45|50|5|False|1510|70|90
+555|DarmanitanStandard Mode|Fire||55|30|55|95|5|False|2290|105|140
+555|DarmanitanZen Mode|Fire|Psychic|105|140|105|55|5|False|2420|105|30
+556|Maractus|Grass||67|106|67|60|5|False|2100|75|86
+557|Dwebble|Bug|Rock|85|35|35|55|5|False|1485|50|65
+558|Crustle|Bug|Rock|125|65|75|45|5|False|2155|70|95
+559|Scraggy|Dark|Fighting|70|35|70|48|5|False|1587|50|75
+560|Scrafty|Dark|Fighting|115|45|115|58|5|False|2192|65|90
+561|Sigilyph|Psychic|Flying|80|103|80|97|5|False|2182|72|58
+562|Yamask|Ghost||85|55|65|30|5|False|1338|38|30
+563|Cofagrigus|Ghost||145|95|105|30|5|False|2118|58|50
+564|Tirtouga|Water|Rock|103|53|45|22|5|False|1626|54|78
+565|Carracosta|Water|Rock|133|83|65|32|5|False|2256|74|108
+566|Archen|Rock|Flying|45|74|45|70|5|False|1846|55|112
+567|Archeops|Rock|Flying|65|112|65|110|5|False|2578|75|140
+568|Trubbish|Poison||62|40|62|65|5|False|1486|50|50
+569|Garbodor|Poison||82|60|82|75|5|False|2171|80|95
+570|Zorua|Dark||40|80|40|65|5|False|1485|40|65
+571|Zoroark|Dark||60|120|60|105|5|False|2285|60|105
+572|Minccino|Normal||40|40|40|75|5|False|1380|55|50
+573|Cinccino|Normal||60|65|60|115|5|False|2145|75|95
+574|Gothita|Psychic||50|55|65|45|5|False|1300|45|30
+575|Gothorita|Psychic||70|75|85|55|5|False|1745|60|45
+576|Gothitelle|Psychic||95|95|110|65|5|False|2175|70|55
+577|Solosis|Psychic||40|105|50|20|5|False|1300|45|30
+578|Duosion|Psychic||50|125|60|30|5|False|1670|65|40
+579|Reuniclus|Psychic||75|125|85|30|5|False|2265|110|65
+580|Ducklett|Water|Flying|50|44|50|55|5|False|1408|62|44
+581|Swanna|Water|Flying|63|87|63|98|5|False|2149|75|87
+582|Vanillite|Ice||50|65|60|44|5|False|1362|36|50
+583|Vanillish|Ice||65|80|75|59|5|False|1767|51|65
+584|Vanilluxe|Ice||85|110|95|79|5|False|2397|71|95
+585|Deerling|Normal|Grass|50|40|50|75|5|False|1540|60|60
+586|Sawsbuck|Normal|Grass|70|60|70|95|5|False|2180|80|100
+587|Emolga|Electric|Flying|60|75|60|103|5|False|1917|55|75
+588|Karrablast|Bug||45|40|45|60|5|False|1455|50|75
+589|Escavalier|Bug|Steel|105|60|105|20|5|False|2275|70|135
+590|Foongus|Grass|Poison|45|55|55|15|5|False|1389|69|55
+591|Amoonguss|Grass|Poison|70|85|80|30|5|False|2189|114|85
+592|Frillish|Water|Ghost|50|65|85|40|5|False|1510|55|40
+593|Jellicent|Water|Ghost|70|85|105|60|5|False|2200|100|60
+594|Alomomola|Water||80|40|45|65|5|False|2305|165|75
+595|Joltik|Bug|Electric|50|57|50|65|5|False|1443|50|47
+596|Galvantula|Bug|Electric|60|97|60|108|5|False|2125|70|77
+597|Ferroseed|Grass|Steel|91|24|86|10|5|False|1378|44|50
+598|Ferrothorn|Grass|Steel|131|54|116|20|5|False|2218|74|94
+599|Klink|Steel||70|45|60|30|5|False|1355|40|55
+600|Klang|Steel||95|70|85|50|5|False|1980|60|80
+601|Klinklang|Steel||115|70|85|90|5|False|2320|60|100
+602|Tynamo|Electric||40|45|40|60|5|False|1245|35|55
+603|Eelektrik|Electric||70|75|70|40|5|False|1855|65|85
+604|Eelektross|Electric||80|105|80|50|5|False|2365|85|115
+605|Elgyem|Psychic||55|85|55|30|5|False|1525|55|55
+606|Beheeyem|Psychic||75|125|95|40|5|False|2185|75|75
+607|Litwick|Ghost|Fire|55|65|55|20|5|False|1250|50|30
+608|Lampent|Ghost|Fire|60|95|60|55|5|False|1660|60|40
+609|Chandelure|Ghost|Fire|90|145|90|80|5|False|2275|60|55
+610|Axew|Dragon||60|30|40|57|5|False|1479|46|87
+611|Fraxure|Dragon||70|40|50|67|5|False|1909|66|117
+612|Haxorus|Dragon||90|60|70|97|5|False|2479|76|147
+613|Cubchoo|Ice||40|60|40|40|5|False|1420|55|70
+614|Beartic|Ice||80|70|80|50|5|False|2260|95|110
+615|Cryogonal|Ice||30|95|135|105|5|False|2150|70|50
+616|Shelmet|Bug||85|40|65|25|5|False|1380|50|40
+617|Accelgor|Bug||40|100|60|145|5|False|2230|80|70
+618|Stunfisk|Ground|Electric|84|81|99|32|5|False|2188|109|66
+619|Mienfoo|Fighting||50|55|50|65|5|False|1595|45|85
+620|Mienshao|Fighting||60|95|60|105|5|False|2315|65|125
+621|Druddigon|Dragon||90|60|90|48|5|False|2234|77|120
+622|Golett|Ground|Ghost|50|35|50|35|5|False|1424|59|74
+623|Golurk|Ground|Ghost|80|55|80|55|5|False|2254|89|124
+624|Pawniard|Dark|Steel|70|40|40|60|5|False|1555|45|85
+625|Bisharp|Dark|Steel|100|60|70|70|5|False|2235|65|125
+626|Bouffalant|Normal||95|40|95|55|5|False|2280|95|110
+627|Rufflet|Normal|Flying|50|37|50|60|5|False|1643|70|83
+628|Braviary|Normal|Flying|75|57|75|80|5|False|2383|100|123
+629|Vullaby|Dark|Flying|75|45|65|60|5|False|1695|70|55
+630|Mandibuzz|Dark|Flying|105|55|95|80|5|False|2345|110|65
+631|Heatmor|Fire||66|105|66|65|5|False|2223|85|97
+632|Durant|Bug|Steel|112|48|48|109|5|False|2181|58|109
+633|Deino|Dark|Dragon|50|45|50|38|5|False|1389|52|65
+634|Zweilous|Dark|Dragon|70|65|70|58|5|False|1929|72|85
+635|Hydreigon|Dark|Dragon|90|125|90|98|5|False|2709|92|105
+636|Larvesta|Bug|Fire|55|50|55|60|5|False|1655|55|85
+637|Volcarona|Bug|Fire|65|135|105|100|5|False|2450|85|60
+638|Cobalion|Steel|Fighting|129|90|72|108|5|True|2617|91|90
+639|Terrakion|Rock|Fighting|90|72|90|108|5|True|2656|91|129
+640|Virizion|Grass|Fighting|72|90|129|108|5|True|2617|91|90
+641|TornadusIncarnate Forme|Flying||70|125|80|111|5|True|2618|79|115
+641|TornadusTherian Forme|Flying||80|110|90|121|5|True|2603|79|100
+642|ThundurusIncarnate Forme|Electric|Flying|70|125|80|111|5|True|2618|79|115
+642|ThundurusTherian Forme|Electric|Flying|70|145|80|101|5|True|2608|79|105
+643|Reshiram|Dragon|Fire|100|150|120|90|5|True|3065|100|120
+644|Zekrom|Dragon|Electric|120|120|100|90|5|True|3095|100|150
+645|LandorusIncarnate Forme|Ground|Flying|90|115|80|101|5|True|2728|89|125
+645|LandorusTherian Forme|Ground|Flying|90|105|80|91|5|True|2748|89|145
+646|Kyurem|Dragon|Ice|90|130|90|95|5|True|3045|125|130
+646|KyuremBlack Kyurem|Dragon|Ice|100|120|90|95|5|True|3245|125|170
+646|KyuremWhite Kyurem|Dragon|Ice|90|170|100|95|5|True|3195|125|120
+647|KeldeoOrdinary Forme|Water|Fighting|90|129|90|108|5|False|2594|91|72
+647|KeldeoResolute Forme|Water|Fighting|90|129|90|108|5|False|2594|91|72
+648|MeloettaAria Forme|Normal|Psychic|77|128|128|90|5|False|2697|100|77
+648|MeloettaPirouette Forme|Normal|Fighting|90|77|77|128|5|False|2748|100|128
+649|Genesect|Bug|Steel|95|120|95|99|5|False|2682|71|120
+650|Chespin|Grass||65|48|45|38|6|False|1449|56|61
+651|Quilladin|Grass||95|56|58|57|6|False|1844|61|78
+652|Chesnaught|Grass|Fighting|122|74|75|64|6|False|2427|88|107
+653|Fennekin|Fire||40|62|60|60|6|False|1377|40|45
+654|Braixen|Fire||58|90|70|73|6|False|1837|59|59
+655|Delphox|Fire|Psychic|72|114|100|104|6|False|2379|75|69
+656|Froakie|Water||40|62|44|71|6|False|1418|41|56
+657|Frogadier|Water||52|83|56|97|6|False|1815|54|63
+658|Greninja|Water|Dark|67|103|71|122|6|False|2383|72|95
+659|Bunnelby|Normal||38|32|36|57|6|False|1084|38|36
+660|Diggersby|Normal|Ground|77|50|77|78|6|False|1942|85|56
+661|Fletchling|Normal|Flying|43|40|38|62|6|False|1276|45|50
+662|Fletchinder|Fire|Flying|55|56|52|84|6|False|1749|62|73
+663|Talonflame|Fire|Flying|71|74|69|126|6|False|2257|78|81
+664|Scatterbug|Bug||40|27|25|35|6|False|935|38|35
+665|Spewpa|Bug||60|27|30|29|6|False|988|45|22
+666|Vivillon|Bug|Flying|50|90|50|89|6|False|1880|80|52
+667|Litleo|Fire|Normal|58|73|54|72|6|False|1674|62|50
+668|Pyroar|Fire|Normal|72|109|66|106|6|False|2292|86|68
+669|FlabÃ©bÃ©|Fairy||39|61|79|42|6|False|1362|44|38
+670|Floette|Fairy||47|75|98|52|6|False|1661|54|45
+671|Florges|Fairy||68|112|154|75|6|False|2453|78|65
+672|Skiddo|Grass||48|62|57|52|6|False|1621|66|65
+673|Gogoat|Grass||62|97|81|68|6|False|2494|123|100
+674|Pancham|Fighting||62|46|48|43|6|False|1632|67|82
+675|Pangoro|Fighting|Dark|78|69|71|58|6|False|2318|95|124
+676|Furfrou|Normal||60|65|90|102|6|False|2142|75|80
+677|Espurr|Psychic||54|63|60|68|6|False|1616|62|48
+678|MeowsticMale|Psychic||76|83|81|104|6|False|2084|74|48
+678|MeowsticFemale|Psychic||76|83|81|104|6|False|2084|74|48
+679|Honedge|Steel|Ghost|100|35|37|28|6|False|1494|45|80
+680|Doublade|Steel|Ghost|150|45|49|35|6|False|2044|59|110
+681|AegislashBlade Forme|Steel|Ghost|50|150|50|60|6|False|2374|60|150
+681|AegislashShield Forme|Steel|Ghost|150|50|150|60|6|False|2274|60|50
+682|Spritzee|Fairy||60|63|65|23|6|False|1596|78|52
+683|Aromatisse|Fairy||72|99|89|29|6|False|2146|101|72
+684|Swirlix|Fairy||66|59|57|49|6|False|1560|62|48
+685|Slurpuff|Fairy||86|85|75|72|6|False|2188|82|80
+686|Inkay|Dark|Psychic|53|37|46|45|6|False|1336|53|54
+687|Malamar|Dark|Psychic|88|68|75|73|6|False|2216|86|92
+688|Binacle|Rock|Water|67|39|56|50|6|False|1384|42|52
+689|Barbaracle|Rock|Water|115|54|86|68|6|False|2273|72|105
+690|Skrelp|Poison|Water|60|60|60|30|6|False|1464|50|60
+691|Dragalge|Poison|Dragon|90|97|123|44|6|False|2205|65|75
+692|Clauncher|Water||62|58|63|44|6|False|1497|50|53
+693|Clawitzer|Water||88|120|89|59|6|False|2239|71|73
+694|Helioptile|Electric|Normal|33|61|43|70|6|False|1306|44|38
+695|Heliolisk|Electric|Normal|52|109|94|109|6|False|2127|62|55
+696|Tyrunt|Rock|Dragon|77|45|45|48|6|False|1677|58|89
+697|Tyrantrum|Rock|Dragon|119|69|59|71|6|False|2393|82|121
+698|Amaura|Rock|Ice|50|67|63|46|6|False|1685|77|59
+699|Aurorus|Rock|Ice|72|99|92|58|6|False|2431|123|77
+700|Sylveon|Fairy||65|110|130|60|6|False|2379|95|65
+701|Hawlucha|Fighting|Flying|75|74|63|118|6|False|2272|78|92
+702|Dedenne|Electric|Fairy|57|81|67|101|6|False|1940|67|58
+703|Carbink|Rock|Fairy|150|50|150|50|6|False|2174|50|50
+704|Goomy|Dragon||35|55|75|40|6|False|1364|45|50
+705|Sliggoo|Dragon||53|83|113|60|6|False|2043|68|75
+706|Goodra|Dragon||70|110|150|80|6|False|2704|90|100
+707|Klefki|Steel|Fairy|91|80|87|75|6|False|2098|57|80
+708|Phantump|Ghost|Grass|48|50|60|38|6|False|1416|43|70
+709|Trevenant|Ghost|Grass|76|65|82|56|6|False|2200|85|110
+710|PumpkabooAverage Size|Ghost|Grass|70|44|55|51|6|False|1528|49|66
+710|PumpkabooSmall Size|Ghost|Grass|70|44|55|56|6|False|1518|44|66
+710|PumpkabooLarge Size|Ghost|Grass|70|44|55|46|6|False|1538|54|66
+710|PumpkabooSuper Size|Ghost|Grass|70|44|55|41|6|False|1548|59|66
+711|GourgeistAverage Size|Ghost|Grass|122|58|75|84|6|False|2220|65|90
+711|GourgeistSmall Size|Ghost|Grass|122|58|75|99|6|False|2195|55|85
+711|GourgeistLarge Size|Ghost|Grass|122|58|75|69|6|False|2245|75|95
+711|GourgeistSuper Size|Ghost|Grass|122|58|75|54|6|False|2270|85|100
+712|Bergmite|Ice||85|32|35|28|6|False|1419|55|69
+713|Avalugg|Ice||184|44|46|28|6|False|2387|95|117
+714|Noibat|Flying|Dragon|35|45|40|55|6|False|1114|40|30
+715|Noivern|Flying|Dragon|80|97|80|123|6|False|2404|85|70
+716|Xerneas|Fairy||95|131|98|99|6|True|3132|126|131
+717|Yveltal|Dark|Flying|95|131|98|99|6|True|3132|126|131
+718|Zygarde50% Forme|Dragon|Ground|121|81|95|95|6|True|2745|108|100
+719|Diancie|Rock|Fairy|150|100|150|50|6|True|2629|50|100
+719|DiancieMega Diancie|Rock|Fairy|110|160|110|110|6|True|3089|50|160
+720|HoopaHoopa Confined|Psychic|Ghost|60|150|130|70|6|True|2699|80|110
+720|HoopaHoopa Unbound|Psychic|Dark|60|170|130|80|6|True|3069|80|160
+721|Volcanion|Fire|Water|120|130|90|70|6|True|2699|80|110
