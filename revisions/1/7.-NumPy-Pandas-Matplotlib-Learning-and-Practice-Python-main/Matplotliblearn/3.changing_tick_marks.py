@@ -16,7 +16,7 @@ plt.ylabel('y axis', fontdict={'fontname':'Comic Sans MS'})
 #Note that the graph will auto resize for you depending of the numbers you put as the ticks
 #e.g. plt.xticks([0,1,2,3,4, 1000]) you will get a weird looking graph as it stretches out the x axis alot to plot
 #in the tick for number 1000
-plt.xticks([0,1,2,3,4])
+plt.xticks([0,1,2,300000,4])
 plt.yticks([0,2,4,6,7,7.5,8])  #note that even if you didnt put the numbers of equal intervals, matplotlib will
                                #still place those odd numbers (7 and 7.5) at the right spots in relation to the
                                #other numbers
