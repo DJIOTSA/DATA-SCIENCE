@@ -8,8 +8,8 @@ scipy
 statsmodels
 xgboost
 lightgbm
-tensorflow
-keras
-torch
+# tensorflow
+# keras
+# torch
 plotly
 openpyxl
